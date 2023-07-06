@@ -38,7 +38,7 @@ fn sum_even_numbers(numbers: &[i32]) -> i32 {
 #[cfg(test)]
 mod tests {
     use super::*;
-
+    
     // Test for exercise 1
     #[test]
     fn sum_should_work() {

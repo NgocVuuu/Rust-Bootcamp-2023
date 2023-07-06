@@ -75,7 +75,6 @@ fn is_prime(n: u32) -> bool {
     true
 }
 
-
 // Don't mind this for now :)
 #[cfg(test)]
 mod tests {

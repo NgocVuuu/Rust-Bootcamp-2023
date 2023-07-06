@@ -97,5 +97,5 @@ mod tests {
         assert_eq!(count_char_occurrences("Rust is fun", 'u'), 2);
         assert_eq!(count_char_occurrences("Mississippi", 's'), 4);
     }    
-
+    
 }
